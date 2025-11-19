@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ruvaluc
-- 👀 I’m interested in desktop and mobile apps and data analysis.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any python projects.
+- 👋 Hi, I’m Ruvarashe
+- 👀 I’m interested in creating desktop apps and SQL and i am currently an IT student.
 - 📫 How to reach me ruvaluc@gmail.com
 .
 <!---
